@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**TheTGM/TheTGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hi, I'm Mateo Bolivar Arroyave
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF746&center=true&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technologies That I Know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,go,py,react,redux,express,github,aws,html,css,materialui,tailwind,docker,postgres,prisma,dynamodb,redis,mongodb,mysql,kubernetes&perline=10" />
+  </a>
+</p>
+
+### 📊 Most Used Language
+
+<div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=TheTGM&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+</div>
+
+ ### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheTGM&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
