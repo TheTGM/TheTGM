@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-1DF746?style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-4%2B%20years-1DF746?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TheTGM?label=Followers&style=flat-square&color=1DF746" />
 </p>
 
 ---
