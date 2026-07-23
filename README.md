@@ -28,7 +28,6 @@
 - 🧠 Focused on **event-driven systems**, **observability** and **resilience**
 - 🤖 **AI-first workflow**: I build **MCP servers**, custom **Claude Code skills**, and automate PR generation & review with AI
 - 💡 Started coding at **15**. I move fast, decide, build and ship — no waiting for the perfect brief
-- 🎓 Systems Engineering @ ITM (graduating 2026)
 
 ---
 
@@ -75,11 +74,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheTGM&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=1DF746&icon_color=1DF746" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTGM&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=1DF746" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TheTGM&theme=react&hide_border=true&background=0d1117&stroke=1DF746&ring=1DF746&fire=1DF746&currStreakLabel=1DF746" />
 </p>
 
@@ -94,9 +88,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-bolivar-arroyave">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mateo8549@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/TheTGM">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
