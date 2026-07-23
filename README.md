@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Software Engineer with **4+ years** shipping production web products
+- 🚀 Software Engineer with **5+ years** shipping production web products
 - ⚙️ Currently building **microservices in Go** and **frontends in React / Next.js**
 - 🧠 Focused on **event-driven systems**, **observability** and **resilience**
 - 🤖 **AI-first workflow**: I build **MCP servers**, custom **Claude Code skills**, and automate PR generation & review with AI
