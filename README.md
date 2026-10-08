@@ -78,7 +78,7 @@
 
 ### 📈 Activity Graph
 
-[![Mateo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheTGM&theme=react-dark&hide_border=true&bg_color=0d1117&color=1DF746&line=1DF746&point=ffffff)](https://github.com/TheTGM)
+[![Mateo's github activity graph](https://raw.githubusercontent.com/TheTGM/TheTGM/output/activity-graph.svg)](https://github.com/TheTGM)
 
 ---
 
